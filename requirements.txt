@@ -1,0 +1,8 @@
+
+```txt
+opencv-python
+twilio
+edge_impulse_linux
+RPi.GPIO
+numpy
+python-dotenv
