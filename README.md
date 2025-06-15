@@ -33,13 +33,12 @@ A Raspberry Pi-based security system that uses a PIR sensor for motion detection
 
 ## 📁 Folder Structure
 
-intruder-alarm-ai-system/
+<pre>intruder-alarm-ai-system/
 ├── main.py
 ├── requirements.txt
 ├── model/ # AI model files (.eim)
 ├── alert_images/ # Saved images of intrusions
-├── README.md
-
+├── README.md</pre>
 
 ---
 
