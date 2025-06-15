@@ -1,5 +1,5 @@
 
-```txt
+
 opencv-python
 twilio
 edge_impulse_linux
